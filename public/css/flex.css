@@ -3,13 +3,31 @@ html,body {
     margin: 0;
     overflow: auto;
     display: flex;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .column{
-    text-align: center;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     color: white;
     border: solid;
-    background-color:#073642;
+    background-color:#335158;
     min-width: 50vh;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.column img{
+    margin-top: 1em;
+    height: 5em;
+    width: 5em;
+    transform: rotate(270deg);
+    opacity: 0.7;
+    border-radius: 50%;
+}
+
+.column img:hover{
+    opacity: 1;
 }

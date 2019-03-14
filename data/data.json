@@ -2,116 +2,139 @@
     {
         "id": 0,
         "name": "Felix ARCELIN",
-        "mail": "felix.arcelin@viacesi.fr"
+        "mail": "felix.arcelin@viacesi.fr",
+        "picture": "assets/ARCELIN Félix.JPG"
     },
     {
         "id": 1,
         "name": "Sebastien BARDIN",
-        "mail": "sebastien.bardin@viacesi.fr"
+        "mail": "sebastien.bardin@viacesi.fr",
+        "picture": "assets/BARDIN Sébastien.JPG"
     },
     {
         "id": 2,
         "name": "Aymeric BEARD",
-        "mail": "aymeric.beard@viacesi.fr"
+        "mail": "aymeric.beard@viacesi.fr",
+        "picture": "assets/BEARD Aymeric.JPG"
     },
     {
         "id": 3,
         "name": "Matthieu BIASSE",
-        "mail": "matthieu.biasse@viacesi.fr"
+        "mail": "matthieu.biasse@viacesi.fr",
+        "picture": "assets/BIASSE Matthieu.JPG"
     },
     {
         "id": 4,
         "name": "Henri BRIAUX",
-        "mail": "henri.briaux@viacesi.fr"
+        "mail": "henri.briaux@viacesi.fr",
+        "picture": "assets/BRIAUX Henri.JPG"
     },
     {
         "id": 5,
         "name": "Thomas CLEMENT",
-        "mail": "thomas.clement@viacesi.fr"
+        "mail": "thomas.clement@viacesi.fr",
+        "picture": "assets/CLEMENT Thomas.JPG"
     },
     {
         "id": 6,
         "name": "Gael DECROIX",
-        "mail": "gael.decroix@viacesi.fr"
+        "mail": "gael.decroix@viacesi.fr",
+        "picture": "assets/DECROIX Gaël.JPG"
     },
     {
         "id": 7,
         "name": "Adrien DEMOL",
-        "mail": "adrien.demol@viacesi.fr"
+        "mail": "adrien.demol@viacesi.fr",
+        "picture": "assets/DEMOL Adrien.JPG"
     },
     {
         "id": 8,
         "name": "Louis DERUY",
-        "mail": "louis.deruy@viacesi.fr"
+        "mail": "louis.deruy@viacesi.fr",
+        "picture": "assets/DERUY Louis.JPG"
     },
     {
         "id": 9,
         "name": "Antoine DESRAMAUT",
-        "mail": "antoine.desramaut@viacesi.fr"
+        "mail": "antoine.desramaut@viacesi.fr",
+        "picture": "assets/DESRAMAUT Antoine.JPG"
     },
     {
         "id": 10,
         "name": "Hugo DEVOYE",
-        "mail": "hugo.devoye@viacesi.fr"
+        "mail": "hugo.devoye@viacesi.fr",
+        "picture": "assets/DEVOYE Hugo.JPG"
     },
     {
         "id": 11,
         "name": "Vincent DHENNIN",
-        "mail": "vincent.dhennin@viacesi.fr"
+        "mail": "vincent.dhennin@viacesi.fr",
+        "picture": "assets/DHENNIN Vincent.JPG"
     },
     {
         "id": 12,
         "name": "Adrien FIAND",
-        "mail": "adrien.fiand@viacesi.fr"
+        "mail": "adrien.fiand@viacesi.fr",
+        "picture": "assets/FIAND Adrien.JPG"
     },
     {
         "id": 13,
         "name": "Paul FICOT",
-        "mail": "paul.ficot@viacesi.fr"
+        "mail": "paul.ficot@viacesi.fr",
+        "picture": "assets/FICOT Paul.JPG"
     },
     {
         "id": 14,
         "name": "Thomas KERGOAT",
-        "mail": "thomas.kergoat@viacesi.fr"
+        "mail": "thomas.kergoat@viacesi.fr",
+        "picture": "assets/KERGOAT Thomas.jpg"
     },
     {
         "id": 15,
         "name": "Nathan LAMBEC",
-        "mail": "nathan.lambec@viacesi.fr"
+        "mail": "nathan.lambec@viacesi.fr",
+        "picture": "assets/LAMBEC Nathan.JPG"
     },
     {
         "id": 16,
         "name": "Dorian LANSEL",
-        "mail": "dorian.lansel@viacesi.fr"
+        "mail": "dorian.lansel@viacesi.fr",
+        "picture": "assets/LANSEL Dorian.JPG"
     },
     {
         "id": 17,
         "name": "Louis LEDRU",
-        "mail": "louis.ledru@viacesi.fr"
+        "mail": "louis.ledru@viacesi.fr",
+        "picture": "assets/LEDRU Louis.JPG"
     },
     {
         "id": 18,
         "name": "Simon MANIEZ",
-        "mail": "simon.maniez@viacesi.fr"
+        "mail": "simon.maniez@viacesi.fr",
+        "picture": "assets/MANIEZ Simon.JPG"
     },
     {
         "id": 19,
         "name": "Antoine MONDOT",
-        "mail": "antoine.mondot@viacesi.fr"
+        "mail": "antoine.mondot@viacesi.fr",
+        "picture": "assets/MONDOT Antoine.JPG"
     },
     {
         "id": 20,
         "name": "Charles MOREL",
-        "mail": "charles.morel@viacesi.fr"
+        "mail": "charles.morel@viacesi.fr",
+        "picture": "assets/MOREL Charles.JPG"
     },
     {
         "id": 21,
         "name": "Jules MORGAND",
-        "mail": "jules.morgand@viacesi.fr"
+        "mail": "jules.morgand@viacesi.fr",
+        "picture": "assets/MORGAND Jules.JPG"
     },
     {
         "id": 22,
         "name": "Axel SAUVAGE",
-        "mail": "axel.sauvage@viacesi.fr"
+        "mail": "axel.sauvage@viacesi.fr",
+        "picture": "assets/SAUVAGE Axel.JPG"
     }
 ]
