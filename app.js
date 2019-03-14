@@ -26,33 +26,10 @@ const getAll = (callback) => {
     })
 };
 
-const sendEmail = () => {
-    ejs.renderFile(__dirname + "/template.ejs", {
-        title: 'Un titre'
-    }, (err, data) => {
-        if (err) {
-            return process.exit(1);
-        } else {
-            transporter.sendMail({
-                from: 'no-reply@email.com',
-                to: 'ogivales@kopiacehgayo15701806.cf',
-                subject: 'WARNING',
-                html: data
-            }, (err, info) => {
-                if (err) {
-                    return process.exit(1);
-                }
-                console.log(info.response);
-            });
-        }
-    });
-}
-
 // Configuration
-
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.urlencoded({
-    extended: false 
+    extended: false
 }));
 app.set('view engine', 'ejs');
 
@@ -63,8 +40,8 @@ var transporter = nodemailer.createTransport({
         pass: 'M2.+YPy^'
     }
 });
-// Routes
 
+// Routes
 app.get('/', (req, res) => {
     res.render('login', {
         err: 0
@@ -83,16 +60,34 @@ app.post('/home', (req, res) => {
                 })
             })
         } else {
-            res.render('login', {
-                err: 1
-            })
+            res.redirect('/')
         }
     })
 });
 
-app.get('/send', (req, res) => {
-    sendEmail();
-    res.redirect('/');
+app.get('/send/:id', (req, res) => {
+    const id = req.params.id;
+    let mailList = ["poxezukuf@easyemail.info", "cehizuxuyo@next-mail.info"];
+
+    const file = fs.readFileSync(p);
+    const json = JSON.parse(file);
+
+    const troubleMaker = json.find(x => x.id == id);
+    const persons = json.filter(x => x.id != id);
+    persons.forEach((person) => {
+        // mailList += person.mail;
+    });
+    transporter.sendMail({
+        to: mailList,
+        subject: 'WARNING',
+        html: ejs.renderFile(__dirname + "/template.ejs", {
+            title: troubleMaker.name
+        }),
+    }, (err,info) => {
+        if (err)
+            return process.exit(1);
+    });
+    res.redirect('/')
 });
 
 app.listen(3000);
