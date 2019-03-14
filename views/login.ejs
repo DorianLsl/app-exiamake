@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Bienvenue</title>
+</head>
+
+<body style="background-color:black">
+    <div class="wrapper fadeInDown">
+        <div id="formContent">    
+            <!-- Icon -->
+            <!-- <div class="fadeIn first">
+                <img src="#" id="icon" alt="Icon" />
+            </div> -->
+
+            <% if(err){ %>
+                <h1> Identifiants Incorrects ! </h1>
+            <% } %>
+
+            <!-- Login Form -->
+            <form method="POST" action="/home">
+                <input type="email" class="fadeIn second" name="email" placeholder="...@viacesi.fr" required autofocus>
+                <input type="submit" class="fadeIn fourth" value="Envoyer">
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+html,body {
+    min-height: 100vh;
+    margin: 0;
+    overflow: auto;
+    display: flex;
+}
+
+.column{
+    text-align: center;
+
+    color: white;
+    border: solid;
+    background-color:#073642;
+    min-width: 50vh;
+}

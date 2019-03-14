@@ -1,0 +1,117 @@
+[
+    {
+        "id": 0,
+        "name": "Felix ARCELIN",
+        "mail": "felix.arcelin@viacesi.fr"
+    },
+    {
+        "id": 1,
+        "name": "Sebastien BARDIN",
+        "mail": "sebastien.bardin@viacesi.fr"
+    },
+    {
+        "id": 2,
+        "name": "Aymeric BEARD",
+        "mail": "aymeric.beard@viacesi.fr"
+    },
+    {
+        "id": 3,
+        "name": "Matthieu BIASSE",
+        "mail": "matthieu.biasse@viacesi.fr"
+    },
+    {
+        "id": 4,
+        "name": "Henri BRIAUX",
+        "mail": "henri.briaux@viacesi.fr"
+    },
+    {
+        "id": 5,
+        "name": "Thomas CLEMENT",
+        "mail": "thomas.clement@viacesi.fr"
+    },
+    {
+        "id": 6,
+        "name": "Gael DECROIX",
+        "mail": "gael.decroix@viacesi.fr"
+    },
+    {
+        "id": 7,
+        "name": "Adrien DEMOL",
+        "mail": "adrien.demol@viacesi.fr"
+    },
+    {
+        "id": 8,
+        "name": "Louis DERUY",
+        "mail": "louis.deruy@viacesi.fr"
+    },
+    {
+        "id": 9,
+        "name": "Antoine DESRAMAUT",
+        "mail": "antoine.desramaut@viacesi.fr"
+    },
+    {
+        "id": 10,
+        "name": "Hugo DEVOYE",
+        "mail": "hugo.devoye@viacesi.fr"
+    },
+    {
+        "id": 11,
+        "name": "Vincent DHENNIN",
+        "mail": "vincent.dhennin@viacesi.fr"
+    },
+    {
+        "id": 12,
+        "name": "Adrien FIAND",
+        "mail": "adrien.fiand@viacesi.fr"
+    },
+    {
+        "id": 13,
+        "name": "Paul FICOT",
+        "mail": "paul.ficot@viacesi.fr"
+    },
+    {
+        "id": 14,
+        "name": "Thomas KERGOAT",
+        "mail": "thomas.kergoat@viacesi.fr"
+    },
+    {
+        "id": 15,
+        "name": "Nathan LAMBEC",
+        "mail": "nathan.lambec@viacesi.fr"
+    },
+    {
+        "id": 16,
+        "name": "Dorian LANSEL",
+        "mail": "dorian.lansel@viacesi.fr"
+    },
+    {
+        "id": 17,
+        "name": "Louis LEDRU",
+        "mail": "louis.ledru@viacesi.fr"
+    },
+    {
+        "id": 18,
+        "name": "Simon MANIEZ",
+        "mail": "simon.maniez@viacesi.fr"
+    },
+    {
+        "id": 19,
+        "name": "Antoine MONDOT",
+        "mail": "antoine.mondot@viacesi.fr"
+    },
+    {
+        "id": 20,
+        "name": "Charles MOREL",
+        "mail": "charles.morel@viacesi.fr"
+    },
+    {
+        "id": 21,
+        "name": "Jules MORGAND",
+        "mail": "jules.morgand@viacesi.fr"
+    },
+    {
+        "id": 22,
+        "name": "Axel SAUVAGE",
+        "mail": "axel.sauvage@viacesi.fr"
+    }
+]
